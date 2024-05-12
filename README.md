@@ -1,2 +1,2 @@
-# Shenlan_AI
+# ShenLanAI
 深兰人工智能
